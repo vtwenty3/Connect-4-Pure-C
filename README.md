@@ -1,4 +1,4 @@
-# Connect 4 written in C
+# Connect 4 Game written in C
 
 ## How to run it?
 -To compile and run the game you need Visual Studio C++ Compiler or the Gnu Compiler Collection.
